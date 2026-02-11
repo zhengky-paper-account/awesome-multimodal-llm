@@ -1,5 +1,14 @@
-# awesome-multimodal-llm
 # ⭐ Multimodal Large Model Knowledge Base
+
+A structured knowledge base for Deep Learning, Multimodal Learning and Large Models.
+
+---
+
+# 📚 Documentation
+
+- [Deep Learning Foundations](docs/deep_learning.md)
+- [Multimodal Learning](docs/multimodal.md)
+- [Large Models](docs/large_models.md)
 
 ---
 
