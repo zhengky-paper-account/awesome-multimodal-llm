@@ -32,6 +32,7 @@ Multimodal Large Models Knowledge Base
 2. 手撕代码（Transformer，ViT）  
 3. 多模态大模型幻觉  
 4. 多模态大模型可解释性  
-5. MLLM 的计算瓶颈  
+5. MLLM 的计算瓶颈
+6. [MoE](docs/MoE.md)
 
 ---
