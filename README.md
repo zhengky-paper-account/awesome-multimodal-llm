@@ -34,5 +34,6 @@ Multimodal Large Models Knowledge Base
 4. 多模态大模型可解释性  
 5. MLLM 的计算瓶颈
 6. [MoE](docs/MoE.md)
+7. [训练与推理扩展的转变](docs/训练与推理扩展的转变.md)
 
 ---
