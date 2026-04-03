@@ -1,15 +1,8 @@
-# ⭐ Kaiyang Zheng的多模态大模型知识库
-Multimodal Large Models Knowledge Base
-
-本仓库旨在系统梳理：
-
-- 深度学习与大模型基础理论
-- 多模态学习与建模方法
-- 多模态大模型体系与工程实践
+# ⭐ Kaiyang Zheng的大语言模型与多模态大模型知识库
 
 ---
 
-# 📚 知识体系结构
+# 📚 大语言模型
 
 ## 🧱 第一部分：基础组件（从最小单元开始）
 
@@ -142,3 +135,39 @@ Multimodal Large Models Knowledge Base
 9. [tool-use 数据合成](./11.1%20tool-use数据合成/11.1%20tool-use数据合成.md)
 10. [Agentic 能力优化策略](./11.2%20Agentic能力优化策略/11.2%20Agentic能力优化策略.md)
 11. [Agentic 入门项目推荐](./11.3%20Agentic入门项目推荐.md)
+
+
+
+# 📚 多模态大模型
+1. [BEiT](./BEiT/BEiT.md)
+2. [BEiT-2](./BEiT-2/BEiT-2.md)
+3. [BEiT-3](./BEiT-3/BEiT-3.md)
+4. [BLIP](./BLIP/BLIP.md)
+5. [BLIP-2](./BLIP-2/BLIP-2.md)
+6. [CLIP](./CLIP/CLIP.md)
+7. [Deepseek-VL](./Deepseek-VL/Deepseek-VL.md)
+8. [Deepseek-VL2](./Deepseek-VL2/Deepseek-VL2.md)
+9. [EVA](./EVA/EVA.md)
+10. [EVA-CLIP](./EVA-CLIP/EVA-CLIP.md)
+11. [Flamingo](./Flamingo/Flamingo.md)
+12. [ImageBind](./ImageBind/ImageBind.md)
+13. [InstructBLIP](./InstructBLIP/InstructBLIP.md)
+14. [Janus](./Janus/Janus.md)
+15. [Kimi-VL](./Kimi-VL/Kimi-VL.md)
+16. [LLaMA-VID](./LLaMA-VID/LLaMA-VID.md)
+17. [LLaVA](./LLaVA/LLaVA.md)
+18. [LLaVA-1.5](./LLaVA-1.5/LLaVA-1.5.md)
+19. [LLaVA-Next](./LLaVA-Next/LLaVA-Next.md)
+20. [LLaVA-Video](./LLaVA-Video/LLaVA-Video.md)
+21. [MVP](./MVP/MVP.md)
+22. [Qwen-VL](./Qwen-VL/Qwen-VL.md)
+23. [Qwen2-VL](./Qwen2-VL/Qwen2-VL.md)
+24. [Qwen2.5-VL](./Qwen2.5-VL/Qwen2.5-VL.md)
+25. [Qwen2.5-Omni](./Qwen2.5-Omni/Qwen2.5-Omni.md)
+26. [SigLIP](./SigLIP/SigLIP.md)
+27. [Video-LLaMA](./Video-LLaMA/Video-LLaMA.md)
+28. [ViT](./ViT/ViT.md)
+29. [从零构建多模态RAG对话系统](./从零构建多模态RAG对话系统/从零构建多模态RAG对话系统.md)
+30. [从零开始训练多模态大模型（微调篇）](./从零开始训练多模态大模型（微调篇）/从零开始训练多模态大模型（微调篇）.md)
+31. [大模型笔记代码及简历模板下载](./大模型笔记代码及简历模板下载/大模型笔记代码及简历模板下载.md)
+32. [多模态综述](./多模态综述/多模态综述.md)
